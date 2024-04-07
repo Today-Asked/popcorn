@@ -1,4 +1,3 @@
-baseURL = 'https://today-asked.github.io/popcorn.github.io/'
-languageCode = 'zh-hant'
-title = "Corn's site"
-theme = 'ananke'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
